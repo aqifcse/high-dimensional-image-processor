@@ -1,0 +1,12 @@
+FastAPI
+numpy
+opencv-python
+scikit-image
+scikit-learn
+pytest
+python-multipart
+imagecodecs
+pytest-cov
+httpx
+requests
+uvicorn
