@@ -7,7 +7,7 @@ This project is a microservice designed for high-dimensional image processing, p
 **Clone the repository:**
    ```
    git clone <repository-url>
-   cd my-python-microservice
+   cd high-dimensional-image-processor
    ```
 
 ### Using Docker Compose
